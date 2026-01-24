@@ -57,28 +57,28 @@ The goal is to classify images as **Mask** or **No Mask** with high accuracy.
 
 ## Model Evaluation
 
--Training & Evaluation
--Loss Function: Binary Crossentropy
--Optimizer: Adam
--Metrics: Accuracy
--Epochs: EPOCHS (set in code)
--Batch Size: BS (set in code)
--Performance is evaluated using classification report (precision, recall, F1-score).
+- Training & Evaluation
+- Loss Function: Binary Crossentropy
+- Optimizer: Adam
+- Metrics: Accuracy
+- Epochs: EPOCHS (set in code)
+- Batch Size: BS (set in code)
+- Performance is evaluated using classification report (precision, recall, F1-score).
 
 ---
 
 ## Dependencies
 
--Python 3.x
--TensorFlow / Keras
--NumPy
--Matplotlib
--scikit-learn
--OpenCV
+- Python 3.x
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- scikit-learn
+- OpenCV
 
 ---
 
 ## References
 
--MobileNetV2 Paper: https://arxiv.org/abs/1801.04381
--Keras ImageDataGenerator: https://keras.io/api/preprocessing/image/
+- MobileNetV2 Paper: https://arxiv.org/abs/1801.04381
+- Keras ImageDataGenerator: https://keras.io/api/preprocessing/image/
